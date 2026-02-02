@@ -22,7 +22,7 @@ class AppTheme {
           fontWeight: FontWeight.bold
         ),
       ),
-      cardTheme: CardTheme(
+      cardTheme: CardThemeData(
         elevation: 0, 
         color: Colors.white,
         shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(16)),
